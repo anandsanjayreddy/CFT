@@ -751,13 +751,7 @@
 
 
 
-          "CidrIp" : { "Ref" : "SSHLocation"}}],
-
-		  
-
-
-
-        "SecurityGroupIngress" : [ {
+          "CidrIp" : { "Ref" : "SSHLocation"}}, {
 
 
 
@@ -773,12 +767,7 @@
 
 
 
-          "CidrIp" : { "Ref" : "SSHLocation"}
-
-
-
-         }]
-
+          "CidrIp" : { "Ref" : "SSHLocation"}}]
 
 
       }
