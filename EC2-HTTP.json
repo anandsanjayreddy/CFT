@@ -818,39 +818,13 @@
 
 
 
-    },
-
-
-
-    "PublicDNS" : {
-
-
-
-      "Description" : "Public DNSName of the newly created EC2 instance",
-
-
-
-      "Value" : { "Fn::GetAtt" : [ "EC2Instance", "PublicDnsName" ] }
-
-
-
-    },
-
-
-
-    "PublicIP" : {
-
-
-
-      "Description" : "Public IP address of the newly created EC2 instance",
-
-
-
-      "Value" : { "Fn::GetAtt" : [ "EC2Instance", "PublicIp" ] }
-
-
-
     }
+
+
+
+   
+
+   
 
 
 
