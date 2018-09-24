@@ -355,11 +355,9 @@
     "Fn::Base64" : {
         "Fn::Join" : [ " ", [
             "#!/bin/bash\n",
-			"yum install -y httpd\n",
-			"systemctl enable httpd\n",
-			"systemctl start httpd\n",
-		        "echo hello sanjay welcome to cft  > /var/www/html/index.html\n",
-		        "setenforce 0"
+			"yum install -y ansible\n",
+			"wget https://s3.amazonaws.com/cf-templates-24pbwxk5maig-us-east-1/jdk-8u181-linux-x64.rpm \n"
+			
 			] ]
     }
 }
