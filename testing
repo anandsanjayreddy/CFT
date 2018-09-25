@@ -358,7 +358,7 @@
 	    "cd /home/maintuser\n",
 			"cd .ssh\n",
 			"echo hello > testing\n", 
-      "echo ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCtiKh2tf7qRWEcR68Z0uJLVnaJmWFwAdDc3lEzMqLg5y2Cap66r5TLfJ8X4gV6sGBj8aQGtfTM7BE14rxUm+Vgv9zplNvzpG76LnT7g9mZP2DTaTwY/rQM8TTzOedsH9v8Y+7xkVsWv2fSa01RCtNWAewSNx3oDU2NxhxBDwMKuefbKB35wZtq/GYw4ohgcKZ5oltexy5HRVZeoCWJGe2iSrbzDxS2c1qsLKRWb4mVRImCOc9MpQTas/I48r+mq2DZjMrqAxeOV932i2AwZ+iChooXsyV/QKSD2DrdNo3YJBkAWko6aq6Us2VBRuZdA6pUs0R+SWQLbuVYytGhtqEn jenkins@jk-master >> authorized_keys"
+      "echo ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDdWOHgcQEuSKVfOZxBOO2Zp0hWqECb/XgsByzt4oF2atp6C8jGYuiqxBNWW2/c9mWX/+oGFXQMt+EgJsTl7pXiQW/IzyyZzdtYlA0nblx4ubjSxRBnkBpm/YqX1R0K1m/6PUMEnaUfMg9+gBhWUXc01crMojpZslLtqsXT8skLx3jy1O8D0lLMwj8P0JUD9NR5U6Er8P3n4kaU23wParBx9qGSw8nBf5BuMb4/tjMwXIzjU4bhyxZya82vEwv4Q2W6/+4XOCKc7yYZ59+9BD3E1eO/R1FcC32LjAEaXYnORv1mFMEIqd1RzhPU5MOoBsbeReiaBAz2oQWa1gqEnK9j jenkins@ip-172-31-28-245.us-west-1.compute.internal >> authorized_keys"
 			
 			
 			] ]
