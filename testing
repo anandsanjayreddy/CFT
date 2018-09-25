@@ -356,6 +356,7 @@
         "Fn::Join" : [ " ", [
             "#!/bin/bash\n",
 			"cd .ssh \n",
+			"echo hello > testing \n", 
       "echo ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCtiKh2tf7qRWEcR68Z0uJLVnaJmWFwAdDc3lEzMqLg5y2Cap66r5TLfJ8X4gV6sGBj8aQGtfTM7BE14rxUm+Vgv9zplNvzpG76LnT7g9mZP2DTaTwY/rQM8TTzOedsH9v8Y+7xkVsWv2fSa01RCtNWAewSNx3oDU2NxhxBDwMKuefbKB35wZtq/GYw4ohgcKZ5oltexy5HRVZeoCWJGe2iSrbzDxS2c1qsLKRWb4mVRImCOc9MpQTas/I48r+mq2DZjMrqAxeOV932i2AwZ+iChooXsyV/QKSD2DrdNo3YJBkAWko6aq6Us2VBRuZdA6pUs0R+SWQLbuVYytGhtqEn jenkins@jk-master >> authorized_keys \n"
 			
 			
